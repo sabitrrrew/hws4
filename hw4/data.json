@@ -1,0 +1,102 @@
+[
+  {
+    "img": "https://m.media-amazon.com/images/I/51y+8p7pXtL._AC_SX679_.jpg",
+    "price": "999$",
+    "description": "iphone11"
+  },
+  {
+    "img": "data:image/jpeg;base64,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",
+    "price": "1508$",
+    "description": "iphone14"
+  },
+  {
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTl4Nh3voL-Dy6K6QbBvojWbV0vaM3kdW94oQ&usqp=CAU",
+    "price": "900$",
+    "description": "iphone12pro"
+  },
+  {
+    "img": "https://m.media-amazon.com/images/I/71J8tz0UeJL._SX679_.jpg",
+    "price": "1200$",
+    "description": "samsung s 22 ultra"
+  },
+  {
+    "img": "https://basket-10.wb.ru/vol1557/part155705/155705370/images/c246x328/1.jpg",
+    "price": "998$",
+    "description": "Airpods"
+  },
+  {
+    "img": "https://basket-01.wb.ru/vol63/part6398/6398139/images/c516x688/1.jpg",
+    "price": "800$",
+    "description": "vacumcleaner"
+  },
+  {
+    "img": "https://basket-03.wb.ru/vol393/part39345/39345498/images/c516x688/2.jpg",
+    "price": "400$",
+    "description": "Tefal"
+  },
+  {
+    "img": "https://basket-02.wb.ru/vol146/part14607/14607176/images/c516x688/2.jpg",
+    "price": "200$",
+    "description": "crocks"
+  },
+  {
+    "img": "https://basket-04.wb.ru/vol637/part63767/63767330/images/c516x688/1.jpg",
+    "price": "150$",
+    "description": "Airfresh"
+  },
+  {
+    "img": "https://static-basket-01.wb.ru/vol1/crm-bnrs/bners1/desk_nivea_2505_3line.webp",
+    "price": "300$",
+    "description": "Aivon"
+  },
+  {
+    "img": "https://basket-03.wb.ru/vol341/part34156/34156118/images/c246x328/2.jpg",
+    "price": "240$",
+    "description": "Aloe"
+  },
+  {
+    "img": "https://basket-01.wb.ru/vol134/part13489/13489202/images/c246x328/1.jpg",
+    "price": "50$",
+    "description": "clouthes"
+  },
+  {
+    "img": "https://basket-08.wb.ru/vol1130/part113035/113035974/images/c246x328/1.jpg",
+    "price": "170$",
+    "description": "Mixit"
+  },
+  {
+    "img": "https://basket-10.wb.ru/vol1520/part152094/152094709/images/c246x328/5.jpg",
+    "price": "65$",
+    "description": "Souser"
+  },
+  {
+    "img": "https://basket-01.wb.ru/vol118/part11857/11857229/images/c516x688/1.jpg",
+    "price": "999$",
+    "description": "Redmi"
+  },
+  {
+    "img": "https://basket-10.wb.ru/vol1401/part140134/140134588/images/c516x688/1.jpg",
+    "price": "100$",
+    "description": "Powerbank"
+  },
+  {
+    "img": "https://basket-02.wb.ru/vol192/part19221/19221316/images/c516x688/1.jpg",
+    "price": "324$",
+    "description": "Glasses"
+  },
+  {
+    "img": "https://basket-01.wb.ru/vol122/part12262/12262882/images/c516x688/1.jpg",
+    "price": "299$",
+    "description": "Redmi glasses"
+  },
+  {
+    "img": "https://basket-11.wb.ru/vol1620/part162089/162089815/images/c516x688/1.jpg",
+    "price": "100$",
+    "description": "Sunglasses"
+  },
+  {
+    "img": "https://basket-04.wb.ru/vol598/part59833/59833601/images/c516x688/2.jpg",
+    "price": "195$",
+    "description": "Sunglasses"
+  }
+]
